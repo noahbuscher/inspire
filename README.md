@@ -21,3 +21,5 @@ Half of any web project is the design. It's what makes the user want to keep com
 <h5>Need something to read in your spare time?</h5>
 * [Smashing Magazine](http://www.smashingmagazine.com/) - A magazine for all things digital design.
 * [CSS-Tricks](http://css-tricks.com/) - Awesome blog on anything and everything related to CSS.
+* [Codrops] (http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers
+* [Insert HTML] (http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers
