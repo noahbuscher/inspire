@@ -21,6 +21,12 @@ Half of any web project is the design. It's what makes the user want to keep com
 * [Iconmonstr](http://iconmonstr.com/) - A collection of free, simple icons.
 * [Subtle Patterns](http://subtlepatterns.com/) - A massive archive of free backgrounds for your projects.
 * [Google Fonts](https://www.google.com/fonts) - Tons of free, easy to use webfonts.
+* 
+
+## Collaborate
+<h5>Working with a team? These links are you you.</h5>
+* [Cloud9](https://c9.io/) - An awesome, zen way to work with others in the cloud.
+* [Gist](https://gist.github.com/) - Share code and text with others fast. Like a mini repository.
 
 ## Backends
 <h5>Every awesome web apps needs an awesome backend.</h5>
