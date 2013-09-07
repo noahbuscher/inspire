@@ -23,7 +23,7 @@ Half of any web project is the design. It's what makes the user want to keep com
 * [Google Fonts](https://www.google.com/fonts) - Tons of free, easy to use webfonts.
 
 ## Collaborate
-<h5>Working with a team? These links are you you.</h5>
+<h5>Working with a team? These links are for you.</h5>
 * [Cloud9](https://c9.io/) - An awesome, zen way to work with others in the cloud.
 * [Gist](https://gist.github.com/) - Share code and text with others fast. Like a mini repository.
 
