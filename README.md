@@ -16,10 +16,18 @@ Half of any web project is the design. It's what makes the user want to keep com
 * [W3Schools](http://www.w3schools.com/) - It's never to late to brush up on your skills!
 * [Bootstrap](http://getbootstrap.com/) - Very popular framework for building modern websites and web apps.
 * [Bootswatch](http://bootswatch.com/) - A list of free themes for Bootstrap.
+* [Iconmonstr](http://iconmonstr.com/) - A collection of free, simple icons.
+* [Subtle Patterns](http://subtlepatterns.com/) - A massive archive of free backgrounds for your projects.
+* [Google Fonts](https://www.google.com/fonts) - Tons of free, easy to use webfonts.
+
+## Testing
+<h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
+* [Placehold](http://placehold.it/) - Generate custom placeholder images of any size.
+* [Browserling](https://browserling.com/) - Cross-browser test your website.
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
 * [Smashing Magazine](http://www.smashingmagazine.com/) - A magazine for all things digital design.
 * [CSS-Tricks](http://css-tricks.com/) - Awesome blog on anything and everything related to CSS.
-* [Codrops] (http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers
-* [Insert HTML] (http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers
+* [Codrops](http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers.
+* [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers.
