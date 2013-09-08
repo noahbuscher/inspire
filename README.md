@@ -35,6 +35,7 @@ Half of any web project is the design. It's what makes the user want to keep com
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
 * [Placehold](http://placehold.it/) - Generate custom placeholder images of any size.
 * [Browserling](https://browserling.com/) - Cross-browser test your website.
+* [CodePen](http://codepen.io/) - A free web editor in your browser!
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
@@ -42,3 +43,5 @@ Half of any web project is the design. It's what makes the user want to keep com
 * [CSS-Tricks](http://css-tricks.com/) - Awesome blog on anything and everything related to CSS.
 * [Codrops](http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers.
 * [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers.
+* [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
+* [Codrops](http://tympanus.net/codrops/) - A nice, clean blog on creating the web.
