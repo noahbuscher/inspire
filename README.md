@@ -6,6 +6,7 @@ Half of any web project is the design. It's what makes the user want to keep com
 ## Concept 
 <h5>These site to get a general idea of possible layouts and style paths to take.</h5>
 * [TheBestDesigns](http://www.thebestdesigns.com/) - General list of hand picked sites from across the web.
+* [Awwwards](http://www.awwwards.com/) - More awesome sites of various styles.
 * [Dribbble](http://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
 * [MinimalSites](http://www.minimalsites.com/) - Another list of sites, but on the much simpler side.
 
