@@ -38,7 +38,9 @@ Design in any web project can be a long and arduous process. Here's a collction 
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
 * [Placehold](http://placehold.it/) - Generate custom placeholder images of any size.
 * [Browserling](https://browserling.com/) - Cross-browser test your website.
-* [CodePen](http://codepen.io/) - A free web editor in your browser!
+* [CodePen](http://codepen.io/) - A free web editor in your browser.
+* [WooRank](http://www.woorank.com/) - A review tool for SEO elements, W3 validation, and numerous other variables. Free basic service.
+* [Yslow](http://yslow.org/) - Tool for analyzing and finding fixes for multiple causes of slow site loading.
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
@@ -47,5 +49,6 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Codrops](http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers.
 * [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers.
 * [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
+* [A List Apart](http://alistapart.com/) - Guest bloggers and full books on topics from coding to business practices.
 
 <div align="center">:heart:</div>
