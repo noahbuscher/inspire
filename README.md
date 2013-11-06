@@ -1,7 +1,7 @@
 Inspire
 ===
 
-Half of any web project is the design. It's what makes the user want to keep coming back. Here's a list of sites I have found that help inspire my designs, then build them.
+Design in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
 
 ## Concept 
 <h5>These site to get a general idea of possible layouts and style paths to take.</h5>
@@ -48,3 +48,5 @@ Half of any web project is the design. It's what makes the user want to keep com
 * [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers.
 * [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
 * [Codrops](http://tympanus.net/codrops/) - A nice, clean blog on creating the web.
+
+<div align="center">:heart:</div>
