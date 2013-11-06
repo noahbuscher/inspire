@@ -47,6 +47,5 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Codrops](http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers.
 * [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers.
 * [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
-* [Codrops](http://tympanus.net/codrops/) - A nice, clean blog on creating the web.
 
 <div align="center">:heart:</div>
