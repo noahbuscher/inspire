@@ -4,7 +4,7 @@ Inspire
 Design in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
 
 ## Concept 
-<h5>These site to get a general idea of possible layouts and style paths to take.</h5>
+<h5>These sites are good to get a general idea of possible layouts and style paths to take.</h5>
 * [TheBestDesigns](http://www.thebestdesigns.com/) - General list of hand picked sites from across the web.
 * [Awwwards](http://www.awwwards.com/) - More awesome sites of various styles.
 * [Dribbble](http://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
