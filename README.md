@@ -18,7 +18,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Unsemantic](http://unsemantic.com/) - Provides a good grid framework for small to large projects.
 * [MDN](https://developer.mozilla.org/) - Documentation for HTML, CSS, JS, etc.
 * [Bootstrap](http://getbootstrap.com/) - Very popular framework for building modern websites and web apps.
-* [Bootswatch](http://bootswatch.com/) - A list of free themes for Bootstrap.
+  * [Bootswatch](http://bootswatch.com/) - A list of free themes for Bootstrap.
 * [Iconmonstr](http://iconmonstr.com/) - A collection of free, simple icons.
 * [Subtle Patterns](http://subtlepatterns.com/) - A massive archive of free backgrounds for your projects.
 * [Google Fonts](https://www.google.com/fonts) - Tons of free, easy to use webfonts.
