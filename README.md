@@ -16,9 +16,9 @@ Half of any web project is the design. It's what makes the user want to keep com
   * [ColorPicker](http://www.colorpicker.com/) - Simple yet affective. The name says it all.
   * [Kuler](https://kuler.adobe.com) - Easily create or view a custom color swatch for your site.
 * [Unsemantic](http://unsemantic.com/) - Provides a good grid framework for small to large projects.
-* [W3Schools](http://www.w3schools.com/) - It's never to late to brush up on your skills!
+* [MDN](https://developer.mozilla.org/) - Documentation for HTML, CSS, JS, etc.
 * [Bootstrap](http://getbootstrap.com/) - Very popular framework for building modern websites and web apps.
-  * [Bootswatch](http://bootswatch.com/) - A list of free themes for Bootstrap.
+* [Bootswatch](http://bootswatch.com/) - A list of free themes for Bootstrap.
 * [Iconmonstr](http://iconmonstr.com/) - A collection of free, simple icons.
 * [Subtle Patterns](http://subtlepatterns.com/) - A massive archive of free backgrounds for your projects.
 * [Google Fonts](https://www.google.com/fonts) - Tons of free, easy to use webfonts.
