@@ -50,5 +50,6 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers.
 * [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
 * [A List Apart](http://alistapart.com/) - Guest bloggers and full books on topics from coding to business practices.
+* [Codingbean](http://codingbean.com/) - My personal site. Contains tutorials, snippets, and free code!
 
 <div align="center">:heart:</div>
