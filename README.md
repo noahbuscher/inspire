@@ -32,7 +32,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Scratchpad.IO](http://scratchpad.io/) - A simple, RTC tool for coding and previewing websites.
 
 ## Backends
-<h5>Every awesome web apps needs an awesome backend.</h5>
+<h5>Every awesome web app needs an awesome backend.</h5>
 * [Firebase](https://www.firebase.com/) - A real-time front-end database for your sites.
 
 ## Testing
