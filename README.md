@@ -24,6 +24,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Subtle Patterns](http://subtlepatterns.com/) - A massive archive of free backgrounds for your projects.
 * [Google Fonts](https://www.google.com/fonts) - Tons of free, easy to use webfonts.
 * [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) - Add some sexy Easter eggs in your source code.
+* [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/#) - A collection of CSS3 animation snippets.
 
 ## Collaborate
 <h5>Working with a team? These links are for you.</h5>
@@ -51,6 +52,6 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers.
 * [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
 * [A List Apart](http://alistapart.com/) - Guest bloggers and full books on topics from coding to business practices.
-* [Codingbean](http://codingbean.com/) - My personal site. Contains tutorials, snippets, and free code!
+* [GoodUI](http://goodui.org/) - It's definitely not bad.
 
 <div align="center">:heart:</div>
