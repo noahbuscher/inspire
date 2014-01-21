@@ -9,6 +9,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Awwwards](http://www.awwwards.com/) - More awesome sites of various styles.
 * [Dribbble](http://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
 * [MinimalSites](http://www.minimalsites.com/) - Another list of sites, but on the much simpler side.
+* [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
 
 ## Creation
 <h5>These sites are good for building a basic framework for the site.</h5>
