@@ -27,12 +27,14 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) - Add some sexy Easter eggs in your source code.
 * [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/#) - A collection of CSS3 animation snippets.
 * [Flat UI](http://designmodo.github.io/Flat-UI/) - A superb HTML and CSS framework for flat design. It's the juice.
+* [CSS2Stylus](http://css2stylus.com/) - Convert your CSS to Stylus.
 
 ## Collaborate
 <h5>Working with a team? These links are for you.</h5>
 * [Cloud9](https://c9.io/) - An awesome, zen way to work with others in the cloud.
 * [Gist](https://gist.github.com/) - Share code and text with others fast. Like a mini repository.
 * [Scratchpad.IO](http://scratchpad.io/) - A simple, RTC tool for coding and previewing websites.
+* [Red Pen](https://redpen.io/) - Share your design and get feedback seamlessly.
 
 ## Backends
 <h5>Every awesome web app needs an awesome backend.</h5>
@@ -45,6 +47,8 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [CodePen](http://codepen.io/) - A free web editor in your browser.
 * [WooRank](http://www.woorank.com/) - A review tool for SEO elements, W3 validation, and numerous other variables. Free basic service.
 * [Yslow](http://yslow.org/) - Tool for analyzing and finding fixes for multiple causes of slow site loading.
+* [Hurl.it](http://www.hurl.it/) - Make HTTP requests in the browser.
+* [Localtunnel](http://progrium.com/localtunnel/) - Open localhost ports to the world.
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
