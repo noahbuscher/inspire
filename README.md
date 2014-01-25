@@ -10,6 +10,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Dribbble](http://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
 * [MinimalSites](http://www.minimalsites.com/) - Another list of sites, but on the much simpler side.
 * [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
+* [siteInspire](http://www.siteinspire.com/) - Get inspired.
 
 ## Creation
 <h5>These sites are good for building a basic framework for the site.</h5>
