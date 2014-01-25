@@ -26,6 +26,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Google Fonts](https://www.google.com/fonts) - Tons of free, easy to use webfonts.
 * [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) - Add some sexy Easter eggs in your source code.
 * [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/#) - A collection of CSS3 animation snippets.
+* [Flat UI](http://designmodo.github.io/Flat-UI/) - A superb HTML and CSS framework for flat design. It's the juice.
 
 ## Collaborate
 <h5>Working with a team? These links are for you.</h5>
