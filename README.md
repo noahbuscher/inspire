@@ -17,6 +17,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * Color
   * [ColorPicker](http://www.colorpicker.com/) - Simple yet affective. The name says it all.
   * [Kuler](https://kuler.adobe.com) - Easily create or view a custom color swatch for your site.
+  * [Spectral](http://jxnblk.github.io/Spectral/) - Minimal color swatch creation.
 * [Unsemantic](http://unsemantic.com/) - Provides a good grid framework for small to large projects.
 * [MDN](https://developer.mozilla.org/) - Documentation for HTML, CSS, JS, etc.
 * [Bootstrap](http://getbootstrap.com/) - Very popular framework for building modern websites and web apps.
