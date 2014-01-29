@@ -11,6 +11,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [MinimalSites](http://www.minimalsites.com/) - Another list of sites, but on the much simpler side.
 * [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
 * [siteInspire](http://www.siteinspire.com/) - Get inspired.
+* [Designer News](https://news.layervault.com/) - The best design / development links from the 'net.
 
 ## Creation
 <h5>These sites are good for building a basic framework for the site.</h5>
