@@ -37,6 +37,8 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * Sublime Text
   * Themes
     * [Flatron](https://github.com/Codingbean/Flatron) - It's flat, purple, and hella sexy.
+* [FileZilla](https://filezilla-project.org/) - For those who fear FTP in the terminal.
+* [Sketch](http://www.bohemiancoding.com/sketch/) [OS X only] - A professional vector graphics app.
 
 ## Collaborate
 <h5>Working with a team? These links are for you.</h5>
