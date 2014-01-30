@@ -31,6 +31,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/#) - A collection of CSS3 animation snippets.
 * [Flat UI](http://designmodo.github.io/Flat-UI/) - A superb HTML and CSS framework for flat design. It's the juice.
 * [CSS2Stylus](http://css2stylus.com/) - Convert your CSS to Stylus.
+* [YMNNJ](http://youmightnotneedjquery.com/) - See jQuery functions in natural JS. No libraries.
 
 ## Tools
 <h5>Every painter needs a brush. Well... Most do.</h5>
