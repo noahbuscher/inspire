@@ -52,6 +52,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 ## Backends
 <h5>Every awesome web app needs an awesome backend.</h5>
 * [Firebase](https://www.firebase.com/) - A real-time front-end database for your sites.
+* [DigitalOcean](http://digitalocean.com) - A cheap and quality VPS hosting company.
 
 ## Testing
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
