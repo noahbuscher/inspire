@@ -49,6 +49,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Gist](https://gist.github.com/) - Share code and text with others fast. Like a mini repository.
 * [Scratchpad.IO](http://scratchpad.io/) - A simple, RTC tool for coding and previewing websites.
 * [Red Pen](https://redpen.io/) - Share your design and get feedback seamlessly.
+* [Invoice Ninja](https://www.invoiceninja.com) - Open source invoicing platform.
 
 ## Backends
 <h5>Every awesome web app needs an awesome backend.</h5>
