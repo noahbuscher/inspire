@@ -72,5 +72,6 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
 * [A List Apart](http://alistapart.com/) - Guest bloggers and full books on topics from coding to business practices.
 * [GoodUI](http://goodui.org/) - It's definitely not bad.
+* [Mentor](http://mentor.so) - Get random advice from other designers and developers.
 
 <div align="center">:heart:</div>
