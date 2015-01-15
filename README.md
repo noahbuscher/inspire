@@ -65,6 +65,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [Yslow](http://yslow.org/) - Tool for analyzing and finding fixes for multiple causes of slow site loading.
 * [Hurl.it](http://www.hurl.it/) - Make HTTP requests in the browser.
 * [Localtunnel](http://progrium.com/localtunnel/) - Open localhost ports to the world.
+* [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) - A Chrome extension to make HTTP requests.
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
