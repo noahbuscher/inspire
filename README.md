@@ -34,14 +34,16 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [YMNNJQ](http://youmightnotneedjquery.com) - See jQuery functions in natural JS. No libraries.
 * [User Inter Faces](http://uifaces.com) - Get ipsum images for user images.
 * Images
-  * [Unsplash](https://unsplash.com)
-  * [Albumarium](http://albumarium.com)
+  * [TheStocks.im](http://thestocks.im) - A collection of great stock photo websites.
+  * [Unsplash](https://unsplash.com) - Free, high quality stock photos.
+  * [Albumarium](http://albumarium.com) - A large collection of free stock photos.
 
 ## Tools
 <h5>Every painter needs a brush. Well... Most do.</h5>
-* Sublime Text
+* [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
     * [Flatron](https://github.com/Codingbean/Flatron) - It's flat, purple, and hella sexy.
+* [Atom](https://atom.io) - A hackable text editor for the 21st century.
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal.
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
 * [Sketch](http://www.bohemiancoding.com/sketch) [OS X only] - A professional vector graphics app.
@@ -58,6 +60,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 <h5>Every awesome web app needs an awesome backend.</h5>
 * [Firebase](https://www.firebase.com) - A real-time front-end database for your sites.
 * [DigitalOcean](http://digitalocean.com) - A cheap and quality VPS hosting company.
+* [Heroku](https://www.heroku.com) - Cloud application platform; very easy to scale.
 
 ## Testing
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
