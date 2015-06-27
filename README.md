@@ -81,4 +81,10 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [GoodUI](http://goodui.org) - It's definitely not bad.
 * [Mentor](http://mentor.so) - Get random advice from other designers and developers.
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Noah Buscher](http://noahbuscher.com) has waived all copyright and related or neighboring rights to this work.
+
 <div align="center">:heart:</div>
