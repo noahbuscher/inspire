@@ -34,6 +34,7 @@ Design in any web project can be a long and arduous process. Here's a collction 
 * [YMNNJQ](http://youmightnotneedjquery.com) - See jQuery functions in natural JS. No libraries.
 * [User Inter Faces](http://uifaces.com) - Get ipsum images for user images.
 * Images
+  * [AllTheFreeStock](http://allthefreestock.com/) - All the Free stock mmages, videos, sounds and icons in one location.
   * [TheStocks.im](http://thestocks.im) - A collection of great stock photo websites.
   * [Unsplash](https://unsplash.com) - Free, high quality stock photos.
   * [Albumarium](http://albumarium.com) - A large collection of free stock photos.
