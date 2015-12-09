@@ -1,7 +1,7 @@
 Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
-Design in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
+Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
 
 ## Concept 
 <h5>These sites are good to get a general idea of possible layouts and style paths to take.</h5>
