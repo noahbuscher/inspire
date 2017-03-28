@@ -5,6 +5,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 ## Concept
 <h5>These sites are good to get a general idea of possible layouts and style paths to take.</h5>
+
 * [TheBestDesigns](https://www.thebestdesigns.com/) - General list of hand picked sites from across the web.
 * [Awwwards](http://www.awwwards.com/) - More awesome sites of various styles.
 * [Dribbble](https://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
@@ -21,6 +22,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 ## Creation
 <h5>These sites are good for building a basic framework for the site.</h5>
+
 * Color
   * [ColorPicker](http://www.colorpicker.com) - Simple yet affective. The name says it all.
   * [Kuler](https://color.adobe.com/) - Easily create or view a custom color swatch for your site.
@@ -47,6 +49,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 ## Tools
 <h5>Every painter needs a brush. Well... Most do.</h5>
+
 * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
     * [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
@@ -57,6 +60,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 ## Collaborate
 <h5>Working with a team? These links are for you.</h5>
+
 * [Cloud9](https://c9.io) - An awesome, zen way to work with others in the cloud.
 * [Gist](https://gist.github.com) - Share code and text with others fast. Like a mini repository.
 * [Scratchpad.IO](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
@@ -65,12 +69,14 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 ## Backends
 <h5>Every awesome web app needs an awesome backend.</h5>
+
 * [Firebase](https://www.firebase.com) - A real-time front-end database for your sites.
 * [DigitalOcean](https://www.digitalocean.com/) - A cheap and quality VPS hosting company.
 * [Heroku](https://www.heroku.com) - Cloud application platform; very easy to scale.
 
 ## Testing
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
+
 * [Placehold](http://placehold.it) - Generate custom placeholder images of any size.
 * [Browserling](https://www.browserling.com/) - Cross-browser test your website.
 * [CodePen](http://codepen.io) - A free web editor in your browser.
@@ -82,6 +88,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
+
 * [Smashing Magazine](http://www.smashingmagazine.com) - A magazine for all things digital design.
 * [CSS-Tricks](https://css-tricks.com/) - Awesome blog on anything and everything related to CSS.
 * [Codrops](http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers.
