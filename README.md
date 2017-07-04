@@ -15,7 +15,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Designer News](https://news.layervault.com/) - The best design / development links from the 'net.
 * [CSS Winner](http://www.csswinner.com/) - Reviewed list of great websites.
 * [OnePageLove](https://onepagelove.com/) - Great influence for one page and general website design.
-* [CodeMyUI](http://codemyui.com/) - List of code snippets for fancy CSS/JS that make an awesome UI.
+* [CodeMyUI](https://codemyui.com/) - List of code snippets for fancy CSS/JS that make an awesome UI.
 * [CodePen](http://codepen.io/) - Central repository of user submitted code concepts/snippets. Great for experiments.
 * [CodyHouse](https://codyhouse.co/) - Tutorials and showcase of awesome UI elements.
 * [CSS3 Cheat Sheet](http://www.justinaguilar.com/animations/#) - CSS3 Cheat Sheet
