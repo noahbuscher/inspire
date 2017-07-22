@@ -54,6 +54,7 @@ Designing and building a modern frontend in any web project can be a long and ar
   * Themes
     * [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
+* [Hyper](https://hyper.is) - Beautiful, extensible command-line interface
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal.
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
 * [Sketch](http://www.sketchapp.com/) [OS X only] - A professional vector graphics app.
