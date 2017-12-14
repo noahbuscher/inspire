@@ -85,7 +85,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Yslow](http://yslow.org) - Tool for analyzing and finding fixes for multiple causes of slow site loading.
 * [Hurl.it](https://www.hurl.it/) - Make HTTP requests in the browser.
 * [Localtunnel](http://localtunnel.me) - Open localhost ports to the world.
-* [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) - A Chrome extension to make HTTP requests.
+* [Postman](https://www.getpostman.com/) - A tool to make HTTP requests, generate mock servers and make API documentation.
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
