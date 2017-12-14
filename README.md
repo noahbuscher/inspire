@@ -24,8 +24,9 @@ Designing and building a modern frontend in any web project can be a long and ar
 <h5>These sites are good for building a basic framework for the site.</h5>
 
 * Color
-  * [ColorPicker](http://www.colorpicker.com) - Simple yet affective. The name says it all.
+  * [Coolors](https://coolors.co/) - Super fast color scheme generator.
   * [Kuler](https://color.adobe.com/) - Easily create or view a custom color swatch for your site.
+  * [uiGradients](https://uigradients.com/) - Gorgous gradient generator.
   * [Spectral](http://jxnblk.com/Spectral/) - Minimal color swatch creation.
 * [Unsemantic](http://unsemantic.com) - Provides a good grid framework for small to large projects.
 * [MDN](https://developer.mozilla.org) - Documentation for HTML, CSS, JS, etc.
@@ -64,7 +65,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 * [Cloud9](https://c9.io) - An awesome, zen way to work with others in the cloud.
 * [Gist](https://gist.github.com) - Share code and text with others fast. Like a mini repository.
-* [Scratchpad.IO](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
+* [Scratchpad](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
 * [Red Pen](https://redpen.io) - Share your design and get feedback seamlessly.
 * [Invoice Ninja](https://www.invoiceninja.com) - Open source invoicing platform.
 
@@ -74,6 +75,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Firebase](https://www.firebase.com) - A real-time front-end database for your sites.
 * [DigitalOcean](https://www.digitalocean.com/) - A cheap and quality VPS hosting company.
 * [Heroku](https://www.heroku.com) - Cloud application platform; very easy to scale.
+* [Auth0](https://auth0.com/) - Authentication, done for you.
 
 ## Testing
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
