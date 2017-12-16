@@ -24,8 +24,9 @@ Designing and building a modern frontend in any web project can be a long and ar
 <h5>These sites are good for building a basic framework for the site.</h5>
 
 * Color
-  * [ColorPicker](http://www.colorpicker.com) - Simple yet affective. The name says it all.
+  * [Coolors](https://coolors.co/) - Super fast color scheme generator.
   * [Kuler](https://color.adobe.com/) - Easily create or view a custom color swatch for your site.
+  * [uiGradients](https://uigradients.com/) - Gorgous gradient generator.
   * [Spectral](http://jxnblk.com/Spectral/) - Minimal color swatch creation.
 * [Unsemantic](http://unsemantic.com) - Provides a good grid framework for small to large projects.
 * [MDN](https://developer.mozilla.org) - Documentation for HTML, CSS, JS, etc.
@@ -53,7 +54,9 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
     * [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
+    * [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
+* [Brackets](http://brackets.io/) - Modern, open source editor with live preview.
 * [Hyper](https://hyper.is) - Beautiful, extensible command-line interface
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal.
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
@@ -64,7 +67,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 * [Cloud9](https://c9.io) - An awesome, zen way to work with others in the cloud.
 * [Gist](https://gist.github.com) - Share code and text with others fast. Like a mini repository.
-* [Scratchpad.IO](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
+* [Scratchpad](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
 * [Red Pen](https://redpen.io) - Share your design and get feedback seamlessly.
 * [Invoice Ninja](https://www.invoiceninja.com) - Open source invoicing platform.
 
@@ -75,6 +78,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [DigitalOcean](https://www.digitalocean.com/) - A cheap and quality VPS hosting company.
 * [Heroku](https://www.heroku.com) - Cloud application platform; very easy to scale.
 * [Hasura](https://hasura.io) - Platform to build and deploy app backends fast.
+* [Auth0](https://auth0.com/) - Authentication, done for you.
 
 ## Testing
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
@@ -86,7 +90,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Yslow](http://yslow.org) - Tool for analyzing and finding fixes for multiple causes of slow site loading.
 * [Hurl.it](https://www.hurl.it/) - Make HTTP requests in the browser.
 * [Localtunnel](http://localtunnel.me) - Open localhost ports to the world.
-* [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) - A Chrome extension to make HTTP requests.
+* [Postman](https://www.getpostman.com/) - A tool to make HTTP requests, generate mock servers and make API documentation.
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
