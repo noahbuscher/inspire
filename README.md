@@ -77,8 +77,8 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Firebase](https://www.firebase.com) - A real-time front-end database for your sites.
 * [DigitalOcean](https://www.digitalocean.com/) - A cheap and quality VPS hosting company.
 * [Heroku](https://www.heroku.com) - Cloud application platform; very easy to scale.
-* [Hasura](https://hasura.io) - Platform to build and deploy app backends fast.
 * [Auth0](https://auth0.com/) - Authentication, done for you.
+* [Hasura](https://hasura.io) - Platform to build and deploy app backends fast.
 
 ## Testing
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
