@@ -82,6 +82,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 ## Testing
 <h5>Before you launch, these are good tools to make sure your site is ready for stardom.</h5>
 
+* [Checkbot](https://www.checkbot.io) - Browser extension that tests your website follows 50+ SEO, speed and security best practices.
 * [Placehold](http://placehold.it) - Generate custom placeholder images of any size.
 * [Browserling](https://www.browserling.com/) - Cross-browser test your website.
 * [CodePen](http://codepen.io) - A free web editor in your browser.
