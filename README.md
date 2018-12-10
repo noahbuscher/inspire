@@ -61,6 +61,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal.
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
 * [Sketch](http://www.sketchapp.com/) [OS X only] - A professional vector graphics app.
+* [Taskade](https://www.taskade.com/) [OS X only] - Create beautiful task lists and outlines.
 
 ## Collaborate
 <h5>Working with a team? These links are for you.</h5>
