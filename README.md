@@ -32,6 +32,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [MDN](https://developer.mozilla.org) - Documentation for HTML, CSS, JS, etc.
 * [Bootstrap](http://getbootstrap.com) - Very popular framework for building modern websites and web apps.
   * [Bootswatch](http://bootswatch.com) - A list of free themes for Bootstrap.
+* [iconscout.com](https://iconscout.com) - Get high-quality Icons, Illustrations and Stock photos at one place.
 * [Iconmonstr](http://iconmonstr.com) - A collection of free, simple icons.
 * [Ionicons](http://ionicons.com) - Another great collection of free icons.
 * [Subtle Patterns](http://subtlepatterns.com) - A massive archive of free backgrounds for your projects.
