@@ -24,6 +24,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 <h5>These sites are good for building a basic framework for the site.</h5>
 
 * Color
+  * [ColorsWall](https://colorswall.com/) - Place to store your color palettes.
   * [Coolors](https://coolors.co/) - Super fast color scheme generator.
   * [Kuler](https://color.adobe.com/) - Easily create or view a custom color swatch for your site.
   * [uiGradients](https://uigradients.com/) - Gorgous gradient generator.
