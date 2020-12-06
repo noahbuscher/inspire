@@ -47,7 +47,6 @@ Designing and building a modern frontend in any web project can be a long and ar
   * [AllTheFreeStock](http://allthefreestock.com/) - All the Free stock mmages, videos, sounds and icons in one location.
   * [TheStocks.im](http://thestocks.im) - A collection of great stock photo websites.
   * [Unsplash](https://unsplash.com) - Free, high quality stock photos.
-  * [Albumarium](http://albumarium.com) - A large collection of free stock photos.
 
 ## Tools
 <h5>Every painter needs a brush. Well... Most do.</h5>
