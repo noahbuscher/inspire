@@ -41,6 +41,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/) - A collection of CSS3 animation snippets.
 * [Flat UI](http://designmodo.github.io/Flat-UI/) - A superb HTML and CSS framework for flat design. It's the juice.
 * [CSS2Stylus](http://css2stylus.com) - Convert your CSS to Stylus.
+* [Web Dev Trick](https://webdevtrick.com/) - Free HTML5, CSS3, JS, PHP Source Code & Tutorial | Web Dev Trick.
 * [YMNNJQ](http://youmightnotneedjquery.com) - See jQuery functions in natural JS. No libraries.
 * [User Inter Faces](http://uifaces.com) - Get ipsum images for user images.
 * Images
