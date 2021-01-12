@@ -59,6 +59,7 @@ Designing and building a modern frontend in any web project can be a long and ar
     * [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
 * [Brackets](http://brackets.io/) - Modern, open source editor with live preview.
+* [VSCode](https://code.visualstudio.com/) - Free text editor
 * [Hyper](https://hyper.is) - Beautiful, extensible command-line interface
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal.
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
