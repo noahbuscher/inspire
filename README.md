@@ -11,6 +11,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Dribbble](https://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
 * [Siiimple](https://siiimple.com/) - Another list of sites, but on the much simpler side.
 * [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
+* [SaaS Pages](https://saaspages.xyz) - An inspection of Netlify's page made especially to bring you inspiration.
 * [siteInspire](http://www.siteinspire.com/) - Get inspired.
 * [Designer News](https://www.designernews.co/) - The best design / development links from the 'net.
 * [CSS Winner](http://www.csswinner.com/) - Reviewed list of great websites.
