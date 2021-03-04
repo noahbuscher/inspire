@@ -1,7 +1,7 @@
 Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
-Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
+Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collection of links to help you. Enjoy!
 
 ## Concept
 <h5>These sites are good to get a general idea of possible layouts and style paths to take.</h5>
@@ -75,6 +75,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Scratchpad](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
 * [Red Pen](https://redpen.io) - Share your design and get feedback seamlessly.
 * [Invoice Ninja](https://www.invoiceninja.com) - Open source invoicing platform.
+* [DevSession](https://devsession.js.org/) - Open a collaborative online IDE from a local directory.
 
 ## Backends
 <h5>Every awesome web app needs an awesome backend.</h5>
