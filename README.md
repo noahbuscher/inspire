@@ -66,6 +66,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
 * [Sketch](http://www.sketchapp.com/) [OS X only] - A professional vector graphics app.
 * [Taskade](https://www.taskade.com/) [OS X only] - Create beautiful task lists and outlines.
+* [DevSession](https://devsession.js.org/) - Open a collaborative online IDE from a local directory.
 
 ## Collaborate
 <h5>Working with a team? These links are for you.</h5>
@@ -75,7 +76,6 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Scratchpad](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
 * [Red Pen](https://redpen.io) - Share your design and get feedback seamlessly.
 * [Invoice Ninja](https://www.invoiceninja.com) - Open source invoicing platform.
-* [DevSession](https://devsession.js.org/) - Open a collaborative online IDE from a local directory.
 
 ## Backends
 <h5>Every awesome web app needs an awesome backend.</h5>
