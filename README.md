@@ -1,7 +1,7 @@
 Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
-Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
+Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collection of links to help you. Enjoy!
 
 ## Concept
 <h5>These sites are good to get a general idea of possible layouts and style paths to take.</h5>
@@ -66,6 +66,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
 * [Sketch](http://www.sketchapp.com/) [OS X only] - A professional vector graphics app.
 * [Taskade](https://www.taskade.com/) [OS X only] - Create beautiful task lists and outlines.
+* [DevSession](https://devsession.js.org/) - Open a collaborative online IDE from a local directory.
 
 ## Collaborate
 <h5>Working with a team? These links are for you.</h5>
