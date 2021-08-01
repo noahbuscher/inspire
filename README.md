@@ -20,7 +20,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [CodePen](http://codepen.io/) - Central repository of user submitted code concepts/snippets. Great for experiments.
 * [CodyHouse](https://codyhouse.co/) - Tutorials and showcase of awesome UI elements.
 * [CSS3 Cheat Sheet](http://www.justinaguilar.com/animations/#) - CSS3 Cheat Sheet
-* [Codrops](https://tympanus.net/codrops/) - A web design and development blog that publishes articles and tutorials about the latest web trends.
+* [Codrops](https://tympanus.net/codrops/) - Web design/development blog that publishes articles/tutorials about the latest web trends.
 
 ## Creation
 <h5>These sites are good for building a basic framework for the site.</h5>
