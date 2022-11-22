@@ -15,6 +15,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Designer News](https://www.designernews.co/) - The best design / development links from the 'net.
 * [Dribbble](https://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
 * [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
+* [Landings](https://landings.dev/) - Find the best landing pages for your design inspiration based on your preference.
 * [OnePageLove](https://onepagelove.com/) - Great influence for one page and general website design.
 * [SaaS Pages](https://saaspages.xyz) - An inspection of Netlify's page made especially to bring you inspiration.
 * [Siiimple](https://siiimple.com/) - Another list of sites, but on the much simpler side.
