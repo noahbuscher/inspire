@@ -20,7 +20,6 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [SaaS Pages](https://saaspages.xyz) - An inspection of Netlify's page made especially to bring you inspiration.
 * [Siiimple](https://siiimple.com/) - Another list of sites, but on the much simpler side.
 * [SiteInspire](http://www.siteinspire.com/) - Get inspired.
-* [TheBestDesigns](https://www.thebestdesigns.com/) - General list of hand picked sites from across the web.
 
 ## Creation
 ##### These sites are good for building a basic framework for the site.
