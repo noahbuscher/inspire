@@ -40,6 +40,7 @@ Designing and building a modern frontend in any web project can be a long and ar
   * [Icon Scout](https://iconscout.com) - Get high-quality Icons, Illustrations and Stock photos at one place.
   * [Iconmonstr](http://iconmonstr.com) - A collection of free, simple icons.
   * [Ionicons](http://ionicons.com) - Another great collection of free icons.
+  * [Icons8](https://icons8.com/icons) - A collection of free icons in various styles. Download directly, or serve them via API.
 * Images
   * [AllTheFreeStock](http://allthefreestock.com/) - All the Free stock mmages, videos, sounds and icons in one location.
   * [TheStocks.im](http://thestocks.im) - A collection of great stock photo websites.
