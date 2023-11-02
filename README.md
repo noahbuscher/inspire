@@ -64,6 +64,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * Text Editors
   * [Atom](https://atom.io) - A hackable text editor for the 21st century.
   * [Brackets](http://brackets.io/) - Modern, open source editor with live preview.
+  * [CodeLobster](https://codelobster.com/) - Free cross-platform code editor.
   * [Nova](https://nova.app) [macOS only] - Gorgeous, native text editor.
   * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
     * Themes
