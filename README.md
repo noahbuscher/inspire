@@ -85,6 +85,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 ##### Every awesome web app needs an awesome backend.
 
 * [Auth0](https://auth0.com/) - Authentication, done for you.
+* [Clerk](https://clerk.com/) - User authentication and management with prebuilt UI components, for React and Next.js.
 * [DigitalOcean](https://www.digitalocean.com/) - A cheap and quality VPS hosting company.
 * [Firebase](https://www.firebase.com) - A real-time front-end database for your sites.
 * [Hasura](https://hasura.io) - Platform to build and deploy app backends fast.
