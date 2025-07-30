@@ -71,6 +71,7 @@ Designing and building a modern frontend in any web project can be a long and ar
       * [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
   * [VSCode](https://code.visualstudio.com/) - Free text editor
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
+* [AI For Developers](https://aifordevelopers.org) - Every AI DevTools
 
 ## Collaborate
 ##### Working with a team? These links are for you.
