@@ -55,6 +55,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 * Design Tools
   * [Figma](https://figma.com) - Web-based vector graphics editor
+  * [Sez](https://sez.c-sharptutorial.com/) - Generate, preview, and apply color palettes to HTML website themes.
   * [Sketch](https://sketchapp.com) [macOS only] - A professional vector graphics editor
 * IDEs
   * [DevSession](https://devsession.js.org/) - Open a collaborative online IDE from a local directory.
