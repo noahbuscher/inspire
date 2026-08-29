@@ -60,6 +60,7 @@ Designing and building a modern frontend in any web project can be a long and ar
   * [DevSession](https://devsession.js.org/) - Open a collaborative online IDE from a local directory.
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal
 * [Hyper](https://hyper.is) - Beautiful, extensible command-line interface
+* [Nutilz](https://nutilz.com) - Free browser-based developer tools (regex tester, JSON formatter, converters, and calculators).
 * [Taskade](https://www.taskade.com/) [macOS only] - Create beautiful task lists and outlines.
 * Text Editors
   * [Atom](https://atom.io) - A hackable text editor for the 21st century.
