@@ -97,6 +97,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Checkbot](https://www.checkbot.io) - Browser extension that tests your website follows 50+ SEO, speed and security best practices.
 * [CodePen](http://codepen.io) - A free web editor in your browser.
 * [Hurl.it](https://www.hurl.it/) - Make HTTP requests in the browser.
+* [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 * [Localtunnel](http://localtunnel.me) - Open localhost ports to the world.
 * [Placehold](http://placehold.it) - Generate custom placeholder images of any size.
 * [Postman](https://www.getpostman.com/) - A tool to make HTTP requests, generate mock servers and make API documentation.
