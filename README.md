@@ -30,7 +30,6 @@ Designing and building a modern frontend in any web project can be a long and ar
   * [Coolors](https://coolors.co/) - Super fast color scheme generator.
   * [Kuler](https://color.adobe.com/) - Easily create or view a custom color swatch for your site.
   * [uiGradients](https://uigradients.com/) - Gorgous gradient generator.
-  * [Spectral](http://jxnblk.com/Spectral/) - Minimal color swatch creation.
 * Fonts
   * [Google Fonts](https://www.google.com/fonts) - Tons of free, easy to use webfonts.
 * Frameworks
@@ -45,7 +44,6 @@ Designing and building a modern frontend in any web project can be a long and ar
   * [TheStocks.im](http://thestocks.im) - A collection of great stock photo websites.
   * [Unsplash](https://unsplash.com) - Free, high quality stock photos.
 * Resources
-  * [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/) - A collection of CSS3 animation snippets.
   * [MDN](https://developer.mozilla.org) - Documentation for HTML, CSS, JS, etc
   * [User Inter Faces](http://uifaces.com) - Get ipsum images for user images.
   * [YMNNJQ](http://youmightnotneedjquery.com) - See jQuery functions in natural JS. No libraries.
@@ -78,7 +76,6 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Cloud9](https://c9.io) - An awesome, zen way to work with others in the cloud.
 * [Gist](https://gist.github.com) - Share code and text with others fast. Like a mini repository.
 * [Invoice Ninja](https://www.invoiceninja.com) - Open source invoicing platform.
-* [Red Pen](https://redpen.io) - Share your design and get feedback seamlessly.
 * [Scratchpad](http://scratchpad.io) - A simple, RTC tool for coding and previewing websites.
 
 ## Backends
@@ -111,7 +108,6 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [Codrops](http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers.
 * [CSS-Tricks](https://css-tricks.com/) - Awesome blog on anything and everything related to CSS
 * [GoodUI](http://goodui.org) - It's definitely not bad.
-* [Insert HTML](http://www.inserthtml.com) - A blog covering current and upcoming techniques and technologies for web developers.
 * [Mentor](http://www.mentor.so/) - Get random advice from other designers and developers.
 * [Smashing Magazine](http://www.smashingmagazine.com) - A magazine for all things digital design.
 
